@@ -31,3 +31,4 @@ Adam
 Cross Entropy Loss
 
 # Text Result:
+![transformer_autoencoder](https://github.com/Santiagor2230/Transformer_Autoencoder/assets/52907423/b80a5a2f-6efa-43d8-9b9b-4421efbb9161)
